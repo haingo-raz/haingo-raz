@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haingo</h1>
 <h3 align="center">a passionate developer from Madagascar.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haingo-raz&label=Profile%20views&color=0e75b6&style=flat" alt="haingo-raz" /> </p>
 
 - 🌱 I’m currently learning **React, Node.js, PHP**
 
