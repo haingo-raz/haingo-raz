@@ -2,12 +2,12 @@
 <h3 align="center">a passionate software developer.</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **Machine learning**, **Deep learning**, **NLP**, and **Computer Vision**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/haingo-r-3a40751b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haingo razafindranto" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.linkedin.com/in/haingo-r-3a40751b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haingo razafindranto" height="30" width="40" /></a>
+</p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
