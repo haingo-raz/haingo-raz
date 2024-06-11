@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Haingo</h1>
-<h3 align="center">a passionate software developer.</h3>
+<!-- <h3 align="center">a passionate software developer.</h3> -->
 
 
 - 🌱 I’m currently learning **Python**, **Machine learning**, **Deep learning**, **NLP**, and **Computer Vision**.
