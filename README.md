@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Haingo</h1>
-<h3 align="center">a passionate software developer with an interest in AI.</h3>
+<h3 align="center">a passionate software developer with a passion for data and AI.</h3>
 
 
-- I’m currently working on my [MyJourney](https://github.com/haingo-raz/MyJourney) project and also learning **Angular**, **Spring Boot**, **Azure**, **AWS**, **NLP**, and **deep learning**.
+- I’m currently working on projects involving **TypeScript**, **Java**, **Python**, **NLP**, and **Deep Learning**.
 
 
 <h3 align="left">Languages and Tools:</h3>
