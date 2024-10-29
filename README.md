@@ -10,3 +10,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haingo-raz&show_icons=true&locale=en" alt="haingo-raz" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haingo-raz&" alt="haingo-raz" /></p>
+
+[![An image of @haingoraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/haingoraz)](https://holopin.io/@haingoraz)
